@@ -29,7 +29,7 @@ Les ** fonctionnalités ** supplémentaires suivantes sont implémentées:
 
 Voici une procédure pas à pas d'histoires d'utilisateurs implémentées:
 
-<img src = 'http: //i.imgur.com/link/to/your/gif/file.gif' title = 'Vidéo pas à pas' width = '' alt = 'Vidéo pas à pas' />
+<img src = 'http: //i.imgur.com/link/to/your/gif/file.gif' title = 'Vidéo pas à pas' width = '' alt =  >
 
 GIF créé avec [LiceCap] (http://www.cockos.com/licecap/).
 
