@@ -1,5 +1,3 @@
-# instagrampremierPartie
-coding
 # Projet 3 - * instagram *
 
 ** Nom de votre application ** est une application de partage de photos similaire à Instagram mais utilisant Parse comme backend.
@@ -29,7 +27,7 @@ Les ** fonctionnalités ** supplémentaires suivantes sont implémentées:
 
 Voici une procédure pas à pas d'histoires d'utilisateurs implémentées:
 
-<img src = 'http: //i.imgur.com/link/to/your/gif/file.gif' title = 'Vidéo pas à pas' width = '' alt =  >
+<img src = 'http: //i.imgur.com/link/to/your/gif/file.gif' title = 'Vidéo pas à pas' width = '' alt = 'gif non prise en chage' />
 
 GIF créé avec [LiceCap] (http://www.cockos.com/licecap/).
 
