@@ -1,72 +1,10 @@
-parse-dashboard --appId surprice-parstagram --masterKey CodepathMovePath --serverURL "https://surprice-parstagram.herokuapp.com/parse"
-
-
-
-parse-dashboard --appId ken-parstagram --masterKey CodepathMasterInstagramParse --serverURL "https://ken-parstagram.herokuapp.com/parse"
-
-
-
-parse-dashboard --appId rahul-parstgram --masterKey CodepathMoveFastParse --serverURL "https://rahul-parstgram.herokuapp.com/parse"
-
-parse-dashboard --appId charly-parstagram --masterKey CodepathMoveFastParse --serverURL "https://charly-parstagram.herokuapp.com/parse"
-
-
-https://apply.codepath.com/group-formation/haiti-university-espoir-sep2019/group-preferences/
-
-
-https://courses.codepath.org/snippets/android_university/readme_templates/project_3_readme.md?raw=true
-
-
-https://guides.codepath.org/android/Handling-ProgressBars
-
-
-https://courses.codepath.org/courses/android_university/unit/5#!assignment
-
-
-https://apply.codepath.com/cohorts/university-cybersecurity-spring-2020/application/status/
-
-
-https://apply.codepath.com/cohorts/haiti-university-espoir-sep2019/application/status/
-
-
-https://apply.codepath.com/cohorts/interview-prep-summer-2020/application/status/
-
-https://apply.codepath.com/dashboard/
-
-
-https://apply.codepath.com/group-formation/haiti-university-espoir-sep2019/ideas/
-
-https://giphy.com/upload/finalize
-
-
-https://drive.google.com/drive/u/0/folders/1nOt58e1DhpH8LWcfo9rt1GIMZY5FBVG-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 # Projet 3 - * instagram *
 
 ** Nom de votre application ** est une application de partage de photos similaire à Instagram mais utilisant Parse comme backend.
 
-Temps passé: ** 24 ** heures passées au total
+Temps passé: ** 24 ** heures passées au tota
 
 ## Histoires d'utilisateurs
 
