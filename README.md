@@ -1,4 +1,3 @@
-
 parse-dashboard --appId surprice-parstagram --masterKey CodepathMovePath --serverURL "https://surprice-parstagram.herokuapp.com/parse"
 
 
@@ -92,12 +91,12 @@ Les ** fonctionnalités ** supplémentaires suivantes sont implémentées:
 
 Voici une procédure pas à pas d'histoires d'utilisateurs implémentées:
 
-<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-12-46.png' title = 'Vidéo pas à pas' width = '' alt = 'gif non prise en chage' />
-<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-13-00.png' title = 'Vidéo pas à pas' width = '' alt = 'gif non prise en chage' />
-<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-14-19.png' title = 'Vidéo pas à pas' width = '' alt = 'gif non prise en chage' />
-<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-14-36.png' title = 'Vidéo pas à pas' width = '' alt = 'gif non prise en chage' />
-<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-15-11.png' title = 'Vidéo pas à pas' width = '' alt = 'gif non prise en chage' />
-<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-15-13.png' title = 'Vidéo pas à pas' width = '' alt = 'gif non prise en chage' />
+<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-12-46.png' title = 'Vidéo pas à pas' width = '200' height = '300' alt = 'gif non prise en chage' />
+<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-13-00.png' title = 'Vidéo pas à pas' width = '200' height = '300' alt = 'gif non prise en chage' />
+<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-14-19.png' title = 'Vidéo pas à pas' width = '200' height = '300' alt = 'gif non prise en chage' />
+<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-14-36.png' title = 'Vidéo pas à pas' width = '200' height = '300' alt = 'gif non prise en chage' />
+<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-15-11.png' title = 'Vidéo pas à pas' width = '200' height = '300' alt = 'gif non prise en chage' />
+<img src = 'https://github.com/Sluckson/instagram-partie2/blob/master/Screenshot_2020-05-27-17-15-13.png' title = 'Vidéo pas à pas' width = '200' height = '300' alt = 'gif non prise en chage' />
 
 GIF créé avec [LiceCap] (http://www.cockos.com/licecap/).
 
